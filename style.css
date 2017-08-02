@@ -1,7 +1,7 @@
 body {
   color: #52616B;
   font-family: 'open-sans',sans-serif;
-  background-color: black;
+  background-image: url(background.jpg);
   line-height: 30px;
 }
 
